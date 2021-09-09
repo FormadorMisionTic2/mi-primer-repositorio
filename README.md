@@ -3,5 +3,8 @@
 Este es nuestro primer repositorio para el grupo S1 de la MisionTic 2022
 </div>
 Esta es una nueva linea por Wilson
+
 entendiendo
-aprobar revisando antes
+
+PullRequest 1
+
